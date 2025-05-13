@@ -8,6 +8,7 @@ class Calculadora:
     def subtrair(self, a, b):
         return a - b
 
+
 # Programa principal
 if __name__ == "__main__":
     calc = Calculadora()
