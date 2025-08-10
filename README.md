@@ -1,4 +1,26 @@
-### **Título do Curso: Bancos de Dados para Desenvolvedores Modernos: Do SQL ao NoSQL na Prática**
+### **Bancos de Dados para Desenvolvedores: Do SQL ao NoSQL na Prática**
+
+
+### **Índice do Projeto de Banco de Dados**
+
+  * [Introdução 🗃️](https://www.google.com/search?q=01_introducao.md)
+  * [Primeiros Passos 🏗️](https://www.google.com/search?q=02_primeiros_passos.md)
+  * [Modelo Conceitual 🧠](https://www.google.com/search?q=03_modelo_conceitual.md)
+  * [Modelo Lógico Relacional 🔗](https://www.google.com/search?q=04_modelo_logico_relacional.md)
+  * [Normalização de Dados 📦](https://www.google.com/search?q=05_normalizacao.md)
+  * [SQL: DDL e DML ✍️](https://www.google.com/search?q=06_sql_ddl_e_dml.md)
+  * [Consultas SQL 🔍](https://www.google.com/search?q=07_consultas_sql.md)
+
+### **Módulos - Cassandra**
+
+  * [Cassandra - Atividade 1: Instalação 🔵](https://www.google.com/search?q=cassandra01.md)
+  * [Cassandra - Atividade 2: Criação de Tabelas 📝](https://www.google.com/search?q=cassandra02.md)
+  * [Cassandra - Atividade 3: Operações CRUD 🔄](https://www.google.com/search?q=cassandra03.md)
+  * [Cassandra - Atividade 4: Atividade Final 🏆](https://www.google.com/search?q=cassandra04.md)
+
+
+---
+
 
 **Público-Alvo:**
 * Desenvolvedores iniciantes e experientes que desejam dominar bancos de dados.
@@ -23,13 +45,13 @@ O curso será dividido em seções que constroem o conhecimento de forma progres
 
 ---
 
-### **Módulo 1: Fundamentos Universais de Bancos de Dados 🏛️**
+### **[Módulo 1: Fundamentos Universais de Bancos de Dados 🏛️]**
 * **Aula 1:** O que é um banco de dados e por que ele é crucial? Resolvendo problemas de escala, consistência e segurança.
 * **Aula 2:** SQL vs. NoSQL: Uma visão geral das duas filosofias e quando usar cada uma.
 * **Aula 3:** Modelagem Conceitual: Desenhando a "planta baixa" dos seus dados (Entidades, Atributos, Relacionamentos).
 * **Aula 4:** Configurando o ambiente de desenvolvimento com Docker: PostgreSQL, MongoDB e Redis em minutos.
 
-### **Módulo 2: O Mundo Relacional com SQL e PostgreSQL 🗃️**
+### **[Módulo 2: O Mundo Relacional com SQL e PostgreSQL 🗃️](./modulo_02_sql_postgresql/)**
 * **Aula 1:** Modelagem Lógica Relacional: Transformando o modelo conceitual em tabelas.
 * **Aula 2:** Chaves (Primária, Estrangeira) e Integridade Referencial.
 * **Aula 3:** Normalização na Prática: Evitando redundância e anomalias de dados (1FN, 2FN, 3FN).
@@ -81,3 +103,6 @@ O curso será dividido em seções que constroem o conhecimento de forma progres
 * **Aula 1:** Bancos de Dados como Serviço (DBaaS) na Nuvem (AWS RDS, MongoDB Atlas).
 * **Aula 2:** Infrastructure as Code (IaC) com Terraform para provisionar bancos de dados.
 * **Aula 3:** Uma introdução a Bancos de Dados de Grafos (Neo4j) para redes sociais e sistemas de recomendação.
+
+
+---
