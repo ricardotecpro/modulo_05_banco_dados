@@ -1,4 +1,6 @@
-A extração de informações de um banco de dados para responder a questões de negócio é realizada por meio de consultas 🔍. Em SQL, o subconjunto de comandos dedicado a esta tarefa é o `SELECT`, que alguns autores classificam como parte da DQL (Data Query Language).
+## A extração de informações de um banco de dados para responder a questões de negócio é realizada por meio de consultas 🔍 
+
+Em SQL, o subconjunto de comandos dedicado a esta tarefa é o `SELECT`, que alguns autores classificam como parte da DQL (Data Query Language).
 
 ### Álgebra Relacional: A Base Teórica 🏛️
 
@@ -60,3 +62,7 @@ SQL oferece uma vasta gama de funções, que podem variar um pouco entre diferen
 * **Subconsultas**: Uma consulta aninhada dentro de outra. Como o resultado de uma consulta é sempre uma tabela, ele pode ser usado como argumento em cláusulas como `FROM` ou `WHERE`, permitindo a resolução de problemas complexos.
 * **`UNION` (União)**: Combina o resultado de duas ou mais consultas `SELECT` em um único conjunto de resultados.
 * **`DIFERENÇA`**: Embora não haja um operador de diferença direto, a lógica de encontrar registros que estão em um conjunto mas não em outro é geralmente implementada usando subconsultas com operadores como `IN` ou `JOINs`.
+
+---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)

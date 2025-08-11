@@ -97,3 +97,8 @@ Remove um registro da tabela `alunos` baseado no seu `id`.
 DELETE FROM alunos
 WHERE id = a6e8dc1c-b2ab-439d-86ed-be04f83436f5;
 ```
+
+
+---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)

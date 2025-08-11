@@ -50,3 +50,7 @@ A 3FN visa eliminar dependências transitivas.
     1.  A tabela deve estar na 2FN.
     2.  Não deve existir dependência funcional entre atributos não-chave.
 * **Em outras palavras:** Nenhum atributo que não faz parte da chave primária pode depender de outro atributo que também não faz parte da chave primária. Um atributo não-chave deve depender exclusivamente da chave. Se houver uma dependência transitiva (ex: `CPF -> codDepto` e `codDepto -> nomeDepto`), a dependência deve ser movida para uma nova tabela.
+
+---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)

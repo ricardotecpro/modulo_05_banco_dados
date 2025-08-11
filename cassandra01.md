@@ -127,3 +127,7 @@ USE minhakeyspace;
 ```
 
 Após executar este comando, o prompt mudará para `cqlsh:minhakeyspace>`, indicando que todos os comandos subsequentes (como `CREATE TABLE`, `INSERT`, etc.) serão executados dentro deste keyspace.
+
+---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)

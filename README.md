@@ -104,5 +104,6 @@ O curso será dividido em seções que constroem o conhecimento de forma progres
 * **Aula 2:** Infrastructure as Code (IaC) com Terraform para provisionar bancos de dados.
 * **Aula 3:** Uma introdução a Bancos de Dados de Grafos (Neo4j) para redes sociais e sistemas de recomendação.
 
-
 ---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)

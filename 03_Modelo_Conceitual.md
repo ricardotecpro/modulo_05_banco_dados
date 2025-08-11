@@ -1,4 +1,4 @@
-O Modelo Lógico Relacional é um modelo de dados de nível de design, proposto por Edgar F. Codd em 1970, que se tornou a base para a maioria dos bancos de dados modernos.
+## O Modelo Lógico Relacional é um modelo de dados de nível de design, proposto por Edgar F. Codd em 1970, que se tornou a base para a maioria dos bancos de dados modernos.
 
 ### Fundamentos do Modelo Relacional 🧱
 
@@ -43,3 +43,7 @@ O processo de transformar um Modelo Conceitual (MC) em um Modelo Relacional (MR)
 7.  **Herança** 🧬: Para mapear uma estrutura de herança, existem duas abordagens principais:
     * **Tabela Única:** Criar uma única tabela para toda a hierarquia. A tabela conteria todos os atributos da superclasse e de todas as subclasses, além de uma coluna "tipo" para diferenciar os registros. A vantagem é a simplicidade e velocidade, mas a desvantagem é o "espaço ocioso" gerado por muitos campos nulos.
     * **Tabelas por Subclasse (Recomendado):** Criar uma tabela para a superclasse e uma tabela separada para cada subclasse. A chave primária de cada tabela de subclasse é também uma chave estrangeira que referencia a chave primária da tabela da superclasse.
+
+---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)

@@ -1,3 +1,4 @@
+
 ````markdown
 # Atividade 2: Evidências das Criações 📜
 
@@ -196,3 +197,7 @@ Com esses passos, você aprendeu a:
 
 ```
 ```
+
+---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)

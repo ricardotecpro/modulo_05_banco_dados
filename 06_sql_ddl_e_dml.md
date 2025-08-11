@@ -1,4 +1,6 @@
-SQL (Structured Query Language) 📜 é a linguagem padrão para acessar e manipular bancos de dados. Originada da linguagem SEQUEL da IBM em 1973, SQL é hoje um padrão ANSI. A linguagem é dividida em sublinguagens, cada uma com um propósito específico.
+## SQL (Structured Query Language) 📜 é a linguagem padrão para acessar e manipular bancos de dados. 
+
+Originada da linguagem SEQUEL da IBM em 1973, SQL é hoje um padrão ANSI. A linguagem é dividida em sublinguagens, cada uma com um propósito específico.
 
 ### Data Definition Language (DDL) - Linguagem de Definição de Dados 🏗️
 
@@ -42,3 +44,7 @@ A TCL gerencia as transações no banco de dados, agrupando comandos DML em unid
 * **`COMMIT`** 👍: Salva permanentemente todas as alterações feitas na transação atual.
 * **`ROLLBACK`** ↩️: Desfaz todas as alterações feitas na transação atual.
 * **`SAVEPOINT`** 📍: Cria um ponto de controle dentro de uma transação para o qual se pode reverter posteriormente.
+
+---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)

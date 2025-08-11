@@ -43,3 +43,7 @@ Existem diversas áreas de atuação em bancos de dados, que podem ser divididas
 * **Desenvolvimento:** Envolve a modelagem dos dados, a criação de consultas (SQL DQL) e a modificação de dados (SQL DML).
 * **Especialista / DBA (Administrador de Banco de Dados):** Foca na criação e atualização da estrutura do banco de dados (SQL DDL), otimizações, segurança e administração geral do SGBD.
 * **Análise de Dados** 📊: Abrange áreas como data science e business intelligence, que utilizam os dados para extrair informações e estatísticas valiosas.
+
+---
+
+### [ricardotecpro.github.io](https://ricardotecpro.github.io/)
