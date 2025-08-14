@@ -5,7 +5,7 @@
 
   * [Introdução 🗃️](01_introducao.md)
   * [Primeiros Passos com Modelagem de Dados 🏗️](02_primeiros_passos_com_modelagem_de_dados.md)
-  * [Modelo Conceitual 🧠](03_modelo_conceitual.md)
+  * [Modelo Conceitual 🧠](./03_modelo_conceitual.md)
   * [Modelo Lógico Relacional 🔗](04_modelo_logico_relacional.md)
   * [Normalização de Dados 📦](05_normalizacao.md)
   * [SQL: DDL e DML ✍️](06_sql_ddl_e_dml.md)
