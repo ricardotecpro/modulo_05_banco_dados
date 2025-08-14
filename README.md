@@ -1,6 +1,5 @@
 # **Bancos de Dados: Do SQL ao NoSQL**
 
-
 ### **Índice do Projeto de Banco de Dados**
 
   * [Introdução 🗃️](01_introducao.md)
@@ -18,9 +17,7 @@
   * [Cassandra - Atividade 3: Operações CRUD 🔄](cassandra03.md)
   * [Cassandra - Atividade 4: Atividade Final 🏆](cassandra04.md)
 
-
 ---
-
 
 **Público-Alvo:**
 * Desenvolvedores iniciantes e experientes que desejam dominar bancos de dados.
