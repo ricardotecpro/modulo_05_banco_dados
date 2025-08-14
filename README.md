@@ -1,22 +1,22 @@
-### **Bancos de Dados para Desenvolvedores: Do SQL ao NoSQL na Prática**
+# **Bancos de Dados: Do SQL ao NoSQL**
 
 
 ### **Índice do Projeto de Banco de Dados**
 
-  * [Introdução 🗃️](https://www.google.com/search?q=01_introducao.md)
-  * [Primeiros Passos 🏗️](https://www.google.com/search?q=02_primeiros_passos.md)
-  * [Modelo Conceitual 🧠](https://www.google.com/search?q=03_modelo_conceitual.md)
-  * [Modelo Lógico Relacional 🔗](https://www.google.com/search?q=04_modelo_logico_relacional.md)
-  * [Normalização de Dados 📦](https://www.google.com/search?q=05_normalizacao.md)
-  * [SQL: DDL e DML ✍️](https://www.google.com/search?q=06_sql_ddl_e_dml.md)
-  * [Consultas SQL 🔍](https://www.google.com/search?q=07_consultas_sql.md)
+  * [Introdução 🗃️](01_introducao.md)
+  * [Primeiros Passos com Modelagem de Dados 🏗️](02_primeiros_passos_com_modelagem_de_dados.md)
+  * [Modelo Conceitual 🧠](03_modelo_conceitual.md)
+  * [Modelo Lógico Relacional 🔗](04_modelo_logico_relacional.md)
+  * [Normalização de Dados 📦](05_normalizacao.md)
+  * [SQL: DDL e DML ✍️](06_sql_ddl_e_dml.md)
+  * [Consultas SQL 🔍](07_consultas_sql.md)
 
 ### **Módulos - Cassandra**
 
-  * [Cassandra - Atividade 1: Instalação 🔵](https://www.google.com/search?q=cassandra01.md)
-  * [Cassandra - Atividade 2: Criação de Tabelas 📝](https://www.google.com/search?q=cassandra02.md)
-  * [Cassandra - Atividade 3: Operações CRUD 🔄](https://www.google.com/search?q=cassandra03.md)
-  * [Cassandra - Atividade 4: Atividade Final 🏆](https://www.google.com/search?q=cassandra04.md)
+  * [Cassandra - Atividade 1: Instalação 🔵](cassandra01.md)
+  * [Cassandra - Atividade 2: Criação de Tabelas 📝](cassandra02.md)
+  * [Cassandra - Atividade 3: Operações CRUD 🔄](cassandra03.md)
+  * [Cassandra - Atividade 4: Atividade Final 🏆](cassandra04.md)
 
 
 ---
