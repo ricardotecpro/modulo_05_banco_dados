@@ -1,5 +1,9 @@
 # **Bancos de Dados: Do SQL ao NoSQL**
 
+SQL
+
+---
+
 ### **Índice do Projeto de Banco de Dados**
 
   * [Introdução 🗃️](01_introducao.md)
@@ -9,6 +13,11 @@
   * [Normalização de Dados 📦](05_normalizacao.md)
   * [SQL: DDL e DML ✍️](06_sql_ddl_e_dml.md)
   * [Consultas SQL 🔍](07_consultas_sql.md)
+
+# NoSQL
+
+---
+
 
 ### **Módulos - Cassandra**
 
